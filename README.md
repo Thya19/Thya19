@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thya19
-- 👀 I’m interested in GIS Web Application Programming
-- 🌱 I’m currently learning Programming languages [Html,Css,JavaScript,Python]
+- 👀 Interested in GIS Web Application Programming
+- 🌱 Currently learning Programming languages [Html,Css,JavaScript,Python]
 - 💞️ I’m looking to collaborate and seeking guidance from GIS Developers
 - 📫 reach me - thiyagu.presidency@gmail.com
 
